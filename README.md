@@ -130,7 +130,7 @@ Finally, we can now interact with the model and feed some test data to the scrip
 
 Screen Recording:
 
-Screen Recording Link:
+Screen Recording Link: https://youtu.be/Dm_TDT5zpho
 
 Future Improvements:
 
