@@ -18,47 +18,47 @@ Some of our customers are churning. They no longer are using our services and go
 
 Dataset columns:
 
-CustomerID â€” the ID of the customer
+CustomerID : the ID of the customer
 
-Gender â€” male/female
+Gender : male/female
 
-Senior Citizen â€” whether the customer is a senior citizen (0/1)
+Senior Citizen : whether the customer is a senior citizen (0/1)
 
-Partner â€” whether they live with a partner (yes/no)
+Partner : whether they live with a partner (yes/no)
 
-Dependents â€” whether they have dependents (yes/no)
+Dependents : whether they have dependents (yes/no)
 
-Tenure â€” number of months since the start of the contract
+Tenure : number of months since the start of the contract
 
-Phone service â€” whether they have phone service (yes/no)
+Phone service : whether they have phone service (yes/no)
 
-Multiple lines â€” whether they have multiple phone lines (yes/no/no phone service)
+Multiple line : whether they have multiple phone lines (yes/no/no phone service)
 
-Internet service â€” the type of internet service (no/fiber/optic)
+Internet service :the type of internet service (no/fiber/optic)
 
-Online security â€” if online security is enabled (yes/no/no internet)
+Online security : if online security is enabled (yes/no/no internet)
 
-Online backup â€” if online backup service is enabled (yes/no/no internet)
+Online backup : if online backup service is enabled (yes/no/no internet)
 
-Device protection â€” if the device protection service is enabled (yes/no/no internet)
+Device protection : if the device protection service is enabled (yes/no/no internet)
 
-Tech support â€” if the customer has tech support (yes/no/no internet)
+Tech support :if the customer has tech support (yes/no/no internet)
 
-Streaming TV â€” if the TV streaming service is enabled (yes/no/no internet)
+Streaming TV : if the TV streaming service is enabled (yes/no/no internet)
 
-Streaming movies â€” if the movie streaming service is enabled (yes/no/no internet)
+Streaming movies : if the movie streaming service is enabled (yes/no/no internet)
 
-Contract â€” the type of contract (monthly/yearly/two years)
+Contract: the type of contract (monthly/yearly/two years)
 
-Paperless billing â€” if the billing is paperless (yes/no)
+Paperless billing : if the billing is paperless (yes/no)
 
-Payment method â€” payment method (electronic check, mailed check, bank transfer, credit card)
+Payment method :payment method (electronic check, mailed check, bank transfer, credit card)
 
-Monthly charges â€” the amount charged monthly (numeric)
+Monthly charges : the amount charged monthly (numeric)
 
-Total charges â€” the total amount charged (numeric)
+Total charges: the total amount charged (numeric)
 
-**Churn â€” if the client has canceled the contract (yes/no) and this is the target column for our prediction**
+**Churn if the client has canceled the contract (yes/no) and this is the target column for our prediction**
 
 
 Project main steps:
